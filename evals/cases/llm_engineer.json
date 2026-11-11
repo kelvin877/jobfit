@@ -1,0 +1,2 @@
+{"name": "llm_engineer", "expected_band": "moderate",
+ "posting": "AI Application Engineer\n\nRequirements:\n- Built retrieval-augmented generation (RAG) features with an LLM API\n- Python backend development\n- Evaluation of LLM output quality in production\n- Vector databases such as pgvector or Pinecone\n\nNice to have:\n- TypeScript"}

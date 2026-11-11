@@ -1,0 +1,2 @@
+{"name": "embedded_c", "expected_band": "weak",
+ "posting": "Embedded Firmware Engineer\n\nRequirements:\n- C and C++ for microcontrollers\n- RTOS such as FreeRTOS or Zephyr\n- Hardware bring-up with oscilloscopes and logic analyzers\n- SPI, I2C and UART drivers\n\nAssets:\n- Python test scripting"}
